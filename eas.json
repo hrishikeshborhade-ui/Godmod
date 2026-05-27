@@ -1,0 +1,11 @@
+JSON
+{
+  "build": {
+    "preview": {
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "production":{}
+  }
+}
